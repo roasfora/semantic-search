@@ -1,0 +1,26 @@
+How do I reset my password?? Click “Forgot Password” on the login page and follow the instructions sent to your registered email.
+Can I integrate ClientNest with Gmail or Outlook?? Yes, ClientNest integrates with both Gmail and Outlook. You can sync emails, schedule follow-ups, and log communications directly from your inbox.
+How do I export my contacts?? Go to the Contacts tab, click “Export,” and choose your desired format (CSV, Excel). Your download will begin immediately.
+Is there a mobile app for ClientNest?? Yes, we offer Android and iOS apps. You can manage leads, track tasks, and view your dashboard on the go.
+What happens if I exceed my storage limit?? You’ll receive a warning email and won’t be able to upload new files until you free up space or upgrade your plan.
+How do I assign a lead to another team member?? Open the lead profile, click “Assign,” and select the team member from the dropdown. They’ll be notified instantly.
+Can I set up automated follow-up emails?? Yes, use our Workflow Automation feature to create scheduled follow-ups based on triggers like “lead created” or “no response in 3 days.”
+What payment methods are accepted?? We accept major credit cards (Visa, MasterCard, AMEX) and PayPal. Invoicing is available on annual Enterprise plans.
+How do I cancel my subscription?? Go to Billing Settings > Subscription > Cancel Plan. Your account will remain active until the end of your billing cycle.
+Is my data secure with ClientNest?? Absolutely. We use 256-bit SSL encryption, daily backups, and are GDPR compliant.
+How do I add a new lead?? Click on the “New Lead” button on the dashboard or Leads tab. Fill in the details and click “Save.”
+Can I import contacts from a CSV file?? Yes. Go to the Contacts tab, click “Import,” and upload your CSV. Map your columns to the system fields and confirm.
+What does lead scoring mean in ClientNest?? Lead scoring helps you prioritize leads based on behavior, source, and engagement. Higher scores indicate better conversion potential.
+Can I merge duplicate contacts?? Yes. Open a contact, click “Merge Duplicates,” and select matching records to merge them into a single contact profile.
+How do I create an email campaign?? Go to Campaigns > Create New. Choose a template, add your audience, and schedule or send immediately.
+Can I track email opens and link clicks?? Yes, all marketing emails automatically track opens and clicks. You can view results in the Campaign Analytics tab.
+How do I automate a welcome email for new leads?? Use Workflow Automation to trigger an email when a new lead is added. Set the trigger and email template, then activate it.
+Can I send bulk SMS messages?? Yes. If you're on a Pro or Enterprise plan, you can create SMS campaigns in the Messaging tab.
+How do I create a custom report?? Go to Reports > Create Report. Choose your metrics, filters, and layout. You can also schedule it for regular delivery.
+Can I share dashboards with my team?? Yes. Every dashboard can be shared with specific team members or roles by clicking the “Share” button.
+What are activity reports?? Activity reports show user performance (calls, emails, meetings) over a time period. Great for sales manager insights.
+How often are reports updated?? Reports update every 15 minutes to reflect new data.
+Is ClientNest GDPR compliant?? Yes. We offer tools to help you manage consent, export data, and fulfill deletion requests under GDPR.
+How is my data protected?? We use end-to-end encryption, role-based access controls, and regular security audits.
+Can I restrict access by user role?? Absolutely. You can create custom roles and define what each user can see or do in the system.
+Do you offer single sign-on (SSO)?? Yes. SSO is available on Enterprise plans and integrates with major identity providers like Okta and Azure AD.

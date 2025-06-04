@@ -1,0 +1,30 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Data exports (optional)
+*.csv
+*.json
+*.xlsx
+
+# FAISS index files (if saving)
+*.index
