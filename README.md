@@ -3,6 +3,11 @@
 
 This is a Streamlit-based semantic search application for querying FAQ documents using natural language. It supports multiple embedding methods: TF-IDF, Word2Vec, and SBERT.
 
+<p align="center">
+  <img src="doc/APP.png" alt="APP" width="600"/>
+</p>
+
+
 ## Features
 
 - Perform semantic search using:
